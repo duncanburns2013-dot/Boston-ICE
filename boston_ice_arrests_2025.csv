@@ -1,0 +1,33 @@
+category,subcategory,value,unit,time_period,source
+monthly_arrests,January,350,arrests,2025,ICE ERO Boston estimate
+monthly_arrests,February,380,arrests,2025,ICE ERO Boston estimate
+monthly_arrests,March,520,arrests,2025,ICE ERO Boston
+monthly_arrests,April,420,arrests,2025,ICE ERO Boston estimate
+monthly_arrests,May,1461,arrests,2025,ICE ERO Boston
+monthly_arrests,June,890,arrests,2025,ICE ERO Boston estimate
+monthly_arrests,July,780,arrests,2025,Deportation Data Project
+monthly_arrests,August,650,arrests,2025,ICE ERO Boston estimate
+monthly_arrests,September,1520,arrests,2025,Deportation Data Project
+monthly_arrests,October,680,arrests,2025,ICE ERO Boston estimate
+operations,March Enhanced Operation,370,arrests,Mar 18-23 2025,ICE ERO Boston
+operations,Operation Patriot,1461,arrests,May 2025,ICE ERO Boston
+operations,Operation Patriot 2.0,1400,arrests,Sep 2025,ICE ERO Boston
+country_of_citizenship,Brazil,780,arrests,Jan-Jul 2025,Deportation Data Project
+country_of_citizenship,Guatemala,450,arrests,2025,ICE ERO Boston estimate
+country_of_citizenship,Dominican Republic,380,arrests,2025,ICE ERO Boston estimate
+country_of_citizenship,El Salvador,320,arrests,2025,ICE ERO Boston estimate
+country_of_citizenship,Haiti,280,arrests,2025,ICE ERO Boston estimate
+country_of_citizenship,Honduras,240,arrests,2025,ICE ERO Boston estimate
+country_of_citizenship,Other,350,arrests,2025,ICE ERO Boston estimate
+summary,Total Arrests (Jan-Oct),5100,arrests,2025,Aggregated estimate
+summary,Peak Month (September),1520,arrests,Sep 2025,Deportation Data Project
+summary,Year-over-Year Change,3,multiplier,vs 2024,Boston Globe analysis
+summary,Brazilian Share of MA Arrests,25,percent,Jan-Jul 2025,GBH News
+geographic_focus,Chelsea,high,activity_level,2025,ICE ERO Boston
+geographic_focus,Worcester,high,activity_level,2025,ICE ERO Boston
+geographic_focus,Lynn,high,activity_level,2025,ICE ERO Boston
+geographic_focus,Waltham,high,activity_level,2025,ICE ERO Boston
+geographic_focus,Lowell,high,activity_level,2025,ICE ERO Boston
+geographic_focus,Lawrence,high,activity_level,2025,ICE ERO Boston
+geographic_focus,East Boston,high,activity_level,2025,ICE ERO Boston
+geographic_focus,Brockton,high,activity_level,2025,ICE ERO Boston
